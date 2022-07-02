@@ -1,0 +1,33 @@
+body {
+    color: aliceblue;
+}
+
+.blackBG {
+    background-color: rgba(36, 40, 52,255);
+}
+
+.textColor {
+    color: rgb(175, 164, 164);
+    font-size: 90%;
+}
+
+/* cards */
+.positioning {
+    position: relative;
+    top: -5rem;
+}
+
+.grayBG {
+    background-color: rgb(95, 94, 94);
+}
+
+.grayBG:hover {
+    background-color: #ffc107;
+}
+.BORDERbuttom{border-bottom:  0.5px solid rgba(133, 132, 132,0.3); }
+.gs_reveal {
+    opacity: 0;
+    visibility: hidden;
+    will-change: transform, opacity;
+    }
+
